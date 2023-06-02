@@ -1,0 +1,30 @@
+body {
+  background: #aeaba4;
+}
+h1 {
+  text-align: center;
+  font-size: 40px;
+  font-family: monospace;
+}
+
+p,
+a {
+  text-align: center;
+  font-family: monospace;
+}
+
+footer a {
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+.croissant-photo {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
+
+.first-link {
+  margin-left: 565px;
+}
